@@ -1,3 +1,3 @@
-struct TestExtend {
-    var text = "Hello, World!"
-}
+@_exported import UIExtend
+@_exported import Extend
+@_exported import OperatorLayout
